@@ -31,7 +31,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https:// nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt= "nodejs" width="40" height="40"/></a> 
 <a href="https://uxwing.com/postman-icon" target="_blank" rel="noreferrer"><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" alt="cartero" width="40" height="40"/> </a>
-<a href="https://commons.wikimedia.org/wiki/File:React-icon.svg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reaccionar" ancho="40" altura="40"/></a>
+<a href="https://commons.wikimedia.org/wiki/File:React-icon.svg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reaccionar" width="40" height="40"/></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasyefferson&show_icons=true&locale=en&layout=compact" alt="thomasyefferson" /></p>
 
