@@ -1,5 +1,6 @@
 <h1 align="center">Hola👋, Soy Yefferson Bermudez Palacios</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Colombia - Buenaventura, con experiencia en programando en practicas y proyecto final en un e-commerce y desarrollo web, utilizando tecnologias como: React, Angular, Node.js, MongoDB, HTML, CSS, TypeScript.</h3>
+<h3 align="center">Soy Yefferson Bermudez apasionado por el desarrollo Frontend. Me encanta crear sitios web que brinden una experiencia de usuario única y satisfactoria. Me considero una persona autodidacta, responsable y comprometida con mi trabajo. Constantemente estoy aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades para incursionar en el mundo de IT y aportar los conocimiento que adquirido en cada paso de estudio que me he formado.
+  Skill: JavaScript, NodeJs, Angular, MongoDB, HTML5, CSS3, React .</h3>
 
 - 🔭 Actualmente estoy trabajando en portafolio personal [My_Portafolio](https://github.com/ThomasYefferson/My_Portafolio)
 
