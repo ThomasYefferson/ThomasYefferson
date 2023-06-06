@@ -2,7 +2,7 @@
 <h3 align="center">Apasionado por el desarrollo Frontend. Me encanta crear sitios web que brinden una experiencia de usuario única y satisfactoria. Me considero una persona autodidacta, responsable y comprometida con mi trabajo. Constantemente estoy aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades para incursionar en el mundo de IT y aportar los conocimiento que adquirido en cada paso de estudio que me he formado.
 Skill: JavaScript, NodeJs, Angular, MongoDB, HTML5, CSS3, React </h3>
 
-- 🔭 Actualmente estoy trabajando en portafolio personal [My_Portafolio](https://github.com/ThomasYefferson/My_Portafolio)
+- 🔭 Actualmente estoy trabajando en portafolio personal [My_Portafolio](https://github.com/ThomasYefferson/YbermudezPortafolio.git)
 
 - 🌱 Actualmente estoy aprendiendo **React, vite, Figma entre otros cursos**
 
