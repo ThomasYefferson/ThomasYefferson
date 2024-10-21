@@ -8,11 +8,11 @@ Skill: JavaScript, NodeJs, Angular, MongoDB, HTML5, CSS3, React </h3>
 
 - 👯 Busco colaborar en proyectos de desarrollo.
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://ybermudez.com/](https://ybermudez.com/)
+- 👨‍💻 Todos mis proyectos están disponibles en 
 
 - 💬 Preguntame sobre **Mis sueños, proyectos etc.**
 
-- 📫 Como llegar a mi **tomasjefferson26@gmail.com**, WhatsApp:https://wa.me/+573104654373
+- 📫 Como llegar a mi **tomasjefferson26@gmail.com**, WhatsApp +573174512947
 
 - 📄 Conoce mis experiencias [https://github.com/daochoam/TopSpinStore-MEAN](https:// github.com/daochoam/TopSpinStore-MEAN)
 
