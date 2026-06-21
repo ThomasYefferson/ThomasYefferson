@@ -1,21 +1,20 @@
 <h1 align="center">Hola👋, Soy Yefferson Bermudez Palacios</h1>
-<h3 align="center">Apasionado por el desarrollo Frontend. Me encanta crear sitios web que brinden una experiencia de usuario única y satisfactoria. Me considero una persona autodidacta, responsable y comprometida con mi trabajo. Constantemente estoy aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades para incursionar en el mundo de IT y aportar los conocimiento que adquirido en cada paso de estudio que me he formado.
-Skill: JavaScript, NodeJs, Angular, MongoDB, HTML5, CSS3, React </h3>
+<h2 align="center">Ingeniero de Sistemas | Soporte Técnico & Infraestructura |Análisis de Datos (en formación)</h2>
+<h3 align="center">Más de 8 años de experiencia en entornos tecnológicos exigentes, incluyendo operación continua de sistemas críticos 24/7 en un puerto industrial. Hoy combino esa base con soporte técnico a usuarios, diagnóstico de fallas y formación activa en análisis de datos. </h3>
+
+- 🔧 Soporte técnico: diagnóstico de fallas, documentación de incidentes, atención bajo SLA
+- 🎥 8 años como Analista CCTV en Puerto Industrial Aguadulce (videovigilancia 24/7)
+- 🌐 Redes: Diplomado Cisco (UNAD) — routers, conectividad
+- 📊 Actualmente en el Bootcamp de Análisis de Datos — BETEK & MAKAIA (2026)
+- 🛠️ Sistemas operativos: Windows (avanzado), Linux (en formación) | SQL básico | MongoDB
+- 🚀 Emprendimiento: CV con Propósito — hojas de vida ATS, optimización LinkedIn, logos y páginas web → [conpropositocv.my.canva.site](https://conpropositocv.my.canva.site/)
 
 - 🔭 Actualmente estoy trabajando en portafolio personal [My_Portafolio](https://github.com/ThomasYefferson/YbermudezPortafolio.git)
 
-- 🌱 Actualmente estoy aprendiendo **React, vite, Figma entre otros cursos**
-
-- 👯 Busco colaborar en proyectos de desarrollo.
-
-- 👨‍💻 Todos mis proyectos están disponibles en 
-
-- 💬 Preguntame sobre **Mis sueños, proyectos etc.**
+- 🌱 Actualmente estoy aprendiendo **Analisis de Datos**
 
 - 📫 Como llegar a mi **tomasjefferson26@gmail.com**, WhatsApp +573174512947
 
-- 📄 Conoce mis experiencias [https://github.com/daochoam/TopSpinStore-MEAN](https:// github.com/daochoam/TopSpinStore-MEAN)
-
-- ⚡ Hecho de la diversión: **Soy una persona directa y sincera. Me gusta pasar tiempo con mi hija Isabella que es mi adoración**
+- ⚡ Disponibilidad para trabajar: **Remoto/Hibrido/Presencial**
 
 
