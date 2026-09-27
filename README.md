@@ -64,7 +64,7 @@ Ingeniero de Sistemas con **más de 8 años de experiencia** en entornos tecnol�
 
 
 
-> ✏️ Agrega aquí el enlace a cada repositorio: `[Nombre del proyecto](https://github.com/ThomasYefferson/repo)`
+
 
 ---
 
