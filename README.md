@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, Soy Yefferson Bermudez Palacios</h1>
-<h2 align="center">Ingeniero de Sistemas | Soporte Técnico & Infraestructura |Análisis de Datos (en formación)</h2>
+<h2 align="center">Ingeniero de Sistemas | Soporte Técnico & Infraestructura |Análisis de Datos</h2>
 <h3 align="center">Más de 8 años de experiencia en entornos tecnológicos exigentes, incluyendo operación continua de sistemas críticos 24/7 en un puerto industrial. Hoy combino esa base con soporte técnico a usuarios, diagnóstico de fallas y formación activa en análisis de datos. </h3>
 
 - 🔧 Soporte técnico: diagnóstico de fallas, documentación de incidentes, atención bajo SLA
